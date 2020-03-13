@@ -45,6 +45,8 @@ core-customize folder
 - tiger folder: An example custom extension.
 - other sample manifests: A collection of tested and verified manifest files that you can use as starting points for your Commerce Cloud environments.
 
+To learn more about code repository best practices, see [Code Repository Best Practices] (https://help.sap.com/viewer/20125f0eca6340dba918bda360e3cdfa/SHIP/en-US/dca0bfe88429408380fedf316e9c6f14.html).
+
 ### Update the Custom Extensions
 
 1. If you don’t have custom extensions, you can delete the kiwi & tiger sample folders.
